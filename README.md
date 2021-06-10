@@ -42,7 +42,3 @@
  <div>
   <sub>Made with 💙 by <a href="https://github.com/jennifferrufino">Jenniffer Rufino</a></sub>
 </div>
-
-### :memo: License
-
-- :balance_scale: MIT License - [About](https://github.com/jennifferrufino/search-bar/blob/master/LICENSE)
